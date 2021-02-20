@@ -5,7 +5,7 @@ from io import BytesIO
 from .utils import BinaryReader
 
 
-__version__ = "1.0"
+__version__ = "1.1"
 __author__ = "Simon Pinfold"
 __email__ = "simon@uint8.me"
 

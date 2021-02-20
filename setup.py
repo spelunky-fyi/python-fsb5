@@ -16,16 +16,15 @@ CLASSIFIERS = [
 	"Topic :: Multimedia :: Sound/Audio :: Conversion",
 ]
 
-
 setup(
-	name="fsb5",
+	name="sfyi-fsb5",
 	version=fsb5.__version__,
 	author=fsb5.__author__,
 	author_email=fsb5.__email__,
 	description="Library and to extract audio from FSB5 (FMOD Sample Bank) files",
-	download_url="https://github.com/HearthSim/python-fsb5/tarball/master",
+	download_url="https://github.com/spelunky-fyi/python-fsb5/tarball/master",
 	license="MIT",
-	url="https://github.com/HearthSim/python-fsb5",
+	url="https://github.com/spelunky-fyi/python-fsb5",
 	classifiers=CLASSIFIERS,
 	packages=find_packages(),
 )
